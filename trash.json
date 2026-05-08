@@ -1,4 +1,4 @@
-        [
+        ;[
             { name: 'Soda Can', color: 0xff4444, target: 'recycle' },
             { name: 'Banana Peel', color: 0xffeb3b, target: 'compost' },
             { name: 'Chip Bag', color: 0x333333, target: 'garbage' },
