@@ -35,6 +35,7 @@
             { name: 'Brocken Playstation 4', color: 0x000000, target: 'eWaste' },
             { name: 'Brocken Xbox S', color: 0x000000, target: 'eWaste' },
             { name: 'Brocken Chromebook', color: 0x000000, target: 'eWaste' },
-            { name: 'Kingsley Lim that is dead', color: 0x000000, target: 'eWaste' },
+            { name: 'electrical Unition', color: 0x000000, target: 'eWaste' },
+            { name: 'Switches', color: 0x000000, target: 'eWaste' },
             { name: 'Apple Core', color: 0x81c784, target: 'compost' }
         ]
